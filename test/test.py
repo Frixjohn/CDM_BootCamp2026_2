@@ -12,7 +12,7 @@ from PIL import Image, ImageChops
 async def test_project(dut):
 
     # Set clock period to 40 ns (25 MHz)
-    CLOCK_PERIOD = 40
+    CLOCK_PERIOD = 39.722
 
     # Set VGA timing parameters matching hvsync_generator.v
     H_DISPLAY = 640
