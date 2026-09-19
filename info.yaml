@@ -2,8 +2,8 @@
 # Tiny Tapeout project information
 project:
   title:        "Colegio de Muntinlupa VGA Rain"      # Project title
-  author:       ""      # Your name
-  discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
+  author:       "Frix"      # Your name
+  discord:      "Kekw5"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description: "VGA digital rain made of the letters of COLEGIO DE MUNTINLUPA in blue, yellow and red"      # One line description of what your project does
   language:     "Verilog" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     25175000       # Clock frequency in Hz (or 0 if not applicable)
